@@ -73,12 +73,14 @@ p {
 
 /* Responsive Design Rules
 ============================*/
-@media screen and (max-width: 992px) {
+/* tablet view */
+@media screen and (max-width: 991px) {
   .container {
     padding: 3rem;
   }
 }
-@media screen and (min-width: 767px) and (max-width: 991px) {
+/* tablet view */
+@media screen and (min-width: 768px) and (max-width: 991px) {
   .meal-section {
     float: left;
     margin: 1.5rem;
@@ -95,6 +97,7 @@ p {
   }
 }
 
+/* desktop view */
 @media screen and (min-width: 992px) {
   .meal-section {
     float: left;
