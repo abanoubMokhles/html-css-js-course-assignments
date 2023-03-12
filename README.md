@@ -5,3 +5,5 @@
 1. [module 2 solution](./module2-solution)
 2. [module 3 solution](./module3-solution)
 3. [module 4 solution](./module4-solution)
+4. [module 5 solution](./module5-solution)
+
