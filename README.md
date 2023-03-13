@@ -7,3 +7,4 @@
 3. [module 4 solution](./module4-solution)
 4. [module 5 solution](./module5-solution)
 
+![certificate](./johns-hobkins.png)
